@@ -1,0 +1,10 @@
+
+1 Math
+2 Physics
+3 Literature
+4 Assembler
+5 OP
+6 InfPravo
+7 Football
+8 FootMake
+9 Magic

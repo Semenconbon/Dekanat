@@ -1,0 +1,58 @@
+﻿Build started 26.12.2021 15:17:21.
+     1>Project "C:\projects\C\dekanat\dekanat\dekanat.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\projects\c\dekanat\dekanat\main.c(109): warning C4013: 'print_students' undefined; assuming extern returning int
+     1>c:\projects\c\dekanat\dekanat\main.c(112): warning C4013: 'print_group' undefined; assuming extern returning int
+     1>c:\projects\c\dekanat\dekanat\main.c(115): warning C4013: 'menu_marks' undefined; assuming extern returning int
+     1>c:\projects\c\dekanat\dekanat\main.c(118): warning C4013: 'menu_discipline' undefined; assuming extern returning int
+     1>c:\projects\c\dekanat\dekanat\main.c(127): warning C4101: 'id' : unreferenced local variable
+     1>c:\projects\c\dekanat\dekanat\main.c(177): warning C4013: 'print_discipline_group' undefined; assuming extern returning int
+     1>c:\projects\c\dekanat\dekanat\main.c(180): warning C4013: 'print_disciplines' undefined; assuming extern returning int
+     1>c:\projects\c\dekanat\dekanat\main.c(230): warning C4013: 'print_marks_student' undefined; assuming extern returning int
+     1>c:\projects\c\dekanat\dekanat\main.c(233): warning C4013: 'print_marks_groups' undefined; assuming extern returning int
+     1>c:\projects\c\dekanat\dekanat\main.c(246): warning C4020: 'strlen' : too many actual parameters
+     1>c:\projects\c\dekanat\dekanat\main.c(249): warning C4020: 'strlen' : too many actual parameters
+     1>c:\projects\c\dekanat\dekanat\main.c(269): warning C4101: 'numbers' : unreferenced local variable
+     1>c:\projects\c\dekanat\dekanat\main.c(346): warning C4013: 'how_many_disciplines_in_group' undefined; assuming extern returning int
+     1>c:\projects\c\dekanat\dekanat\main.c(407): warning C4013: 'add_student' undefined; assuming extern returning int
+     1>c:\projects\c\dekanat\dekanat\main.c(411): warning C4013: 'add_group' undefined; assuming extern returning int
+     1>c:\projects\c\dekanat\dekanat\main.c(415): warning C4013: 'add_discipline' undefined; assuming extern returning int
+     1>c:\projects\c\dekanat\dekanat\main.c(419): warning C4013: 'add_mark' undefined; assuming extern returning int
+     1>c:\projects\c\dekanat\dekanat\main.c(423): warning C4013: 'add_discipline_to_group' undefined; assuming extern returning int
+     1>c:\projects\c\dekanat\dekanat\main.c(488): warning C4020: 'strlen' : too many actual parameters
+     1>c:\projects\c\dekanat\dekanat\main.c(491): warning C4020: 'strlen' : too many actual parameters
+     1>c:\projects\c\dekanat\dekanat\main.c(504): warning C4020: 'strlen' : too many actual parameters
+     1>c:\projects\c\dekanat\dekanat\main.c(529): warning C4020: 'strlen' : too many actual parameters
+     1>c:\projects\c\dekanat\dekanat\main.c(532): warning C4047: '=' : 'int' differs in levels of indirection from 'char *'
+     1>c:\projects\c\dekanat\dekanat\main.c(538): warning C4020: 'strlen' : too many actual parameters
+     1>c:\projects\c\dekanat\dekanat\main.c(541): warning C4047: '=' : 'int' differs in levels of indirection from 'char *'
+     1>c:\projects\c\dekanat\dekanat\main.c(576): warning C4013: 'delete_student' undefined; assuming extern returning int
+     1>c:\projects\c\dekanat\dekanat\main.c(580): warning C4013: 'delete_group' undefined; assuming extern returning int
+     1>c:\projects\c\dekanat\dekanat\main.c(584): warning C4013: 'delete_discipline' undefined; assuming extern returning int
+     1>c:\projects\c\dekanat\dekanat\main.c(588): warning C4013: 'delete_mark' undefined; assuming extern returning int
+     1>c:\projects\c\dekanat\dekanat\main.c(602): warning C4020: 'strlen' : too many actual parameters
+     1>c:\projects\c\dekanat\dekanat\main.c(605): warning C4020: 'strlen' : too many actual parameters
+     1>c:\projects\c\dekanat\dekanat\main.c(657): warning C4020: 'strlen' : too many actual parameters
+     1>c:\projects\c\dekanat\dekanat\main.c(683): warning C4020: 'strlen' : too many actual parameters
+     1>c:\projects\c\dekanat\dekanat\main.c(686): warning C4020: 'strlen' : too many actual parameters
+     1>c:\projects\c\dekanat\dekanat\main.c(699): warning C4020: 'strlen' : too many actual parameters
+     1>c:\projects\c\dekanat\dekanat\main.c(726): warning C4098: 'StartIndStudent' : 'void' function returning a value
+     1>c:\projects\c\dekanat\dekanat\main.c(728): warning C4101: 'line' : unreferenced local variable
+     1>c:\projects\c\dekanat\dekanat\main.c(744): warning C4098: 'StartIndGroup' : 'void' function returning a value
+     1>c:\projects\c\dekanat\dekanat\main.c(746): warning C4101: 'line' : unreferenced local variable
+     1>c:\projects\c\dekanat\dekanat\main.c(759): warning C4098: 'StartIndDiscipline' : 'void' function returning a value
+     1>c:\projects\c\dekanat\dekanat\main.c(761): warning C4101: 'line' : unreferenced local variable
+     1>c:\projects\c\dekanat\dekanat\main.c(774): warning C4098: 'StartIndMarks' : 'void' function returning a value
+     1>c:\projects\c\dekanat\dekanat\main.c(776): warning C4101: 'line' : unreferenced local variable
+     1>c:\projects\c\dekanat\dekanat\main.c(792): warning C4098: 'StartIndGroup_discipline' : 'void' function returning a value
+     1>c:\projects\c\dekanat\dekanat\main.c(794): warning C4101: 'line' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\projects\C\dekanat\Debug\dekanat.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\projects\C\dekanat\Debug\dekanat.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\projects\C\dekanat\Debug\dekanat.lib" /MACHINE:X86 Debug\main.obj
+         dekanat.vcxproj -> C:\projects\C\dekanat\Debug\dekanat.exe
+     1>Done Building Project "C:\projects\C\dekanat\dekanat\dekanat.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.06

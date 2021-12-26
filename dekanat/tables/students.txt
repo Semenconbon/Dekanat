@@ -1,0 +1,17 @@
+
+1 1 Bondar Semyen
+2 4 Kirkorov Filipp
+3 2 Messi Leo
+4 2 Ronaldo Kristiano
+5 3 Putin Vladimir
+6 4 Sokrat Sokratich
+7 3 Obama Barak
+8 1 Baylish Petir
+9 1 Lannister Tirion
+10 3 Stalin Iosif
+11 2 Zabolotniy Anton
+12 4 Fet Avanasiy
+13 2 Polkovnick Sanders
+14 3 Ivanov Ivan
+15 1 Petrosyan Evgeniy
+16 2 Potter Garry
